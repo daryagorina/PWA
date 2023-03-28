@@ -1,0 +1,17 @@
+{
+    "name": "Przewodnik po NY",
+    "short_name": "Welcome to NY!",
+    "theme_color": "#215cf3",
+    "background_color": "rgba(37,33,243,0.89)",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "scope": "/",
+    "start_url": "/"
+    "icons" : [ {
+        "src" : "./img/icon.png",
+        "size" : "512x512",
+        "type" : "image/png"
+
+    }
+    ]
+  }
